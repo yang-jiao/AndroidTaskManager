@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<string-array name="menu_task_operation">
+		<item>Switch</item>
+		<item>Kill</item>
+		<item>Detail</item>
+		<item>Uninstall</item>
+	</string-array>
+
+</resources>
